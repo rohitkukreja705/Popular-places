@@ -1,0 +1,25 @@
+name: bhopal_food_map
+description: "Bhopal Viral Food Map — food places across Bhopal on a free OpenStreetMap-based map."
+publish_to: 'none'
+version: 0.1.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  flutter_map: ^7.0.0
+  latlong2: ^0.9.0
+  url_launcher: ^6.2.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/bhopal_food_places.json
