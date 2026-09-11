@@ -1,0 +1,2120 @@
+{
+  "categories": [
+    {
+      "slug": "old-bhopal-kebab-chai-chatori-trail",
+      "name": "Old Bhopal — Kebab, Chai & Chatori Trail",
+      "description": "Peer Gate / Ibrahimpura / Itwara — the old-city street-food core covered in almost every Bhopal food vlog"
+    },
+    {
+      "slug": "street-stalls-small-vendors-citywide",
+      "name": "Street Stalls & Small Vendors (citywide)",
+      "description": "Independent thelas, carts and one-owner stalls outside the old city — the “Hari Har Sandwich” genre: small, often family-run, sometimes viral"
+    },
+    {
+      "slug": "iconic-institutions-sweets-chaat-legacy-eateries",
+      "name": "Iconic Institutions — Sweets, Chaat & Legacy Eateries",
+      "description": "Multi-decade Bhopal institutions that anchor most “classic Bhopal food” roundups"
+    },
+    {
+      "slug": "bakeries-desserts-ice-cream",
+      "name": "Bakeries, Desserts & Ice Cream",
+      "description": "The city’s most-mentioned cake, patisserie and dessert spots"
+    },
+    {
+      "slug": "momos-chinese-rolls",
+      "name": "Momos, Chinese & Rolls",
+      "description": "Bhopal’s dedicated momo and Indo-Chinese trail"
+    },
+    {
+      "slug": "south-indian",
+      "name": "South Indian",
+      "description": "Bhopal’s dosa-and-filter-coffee circuit"
+    },
+    {
+      "slug": "biryani-kebab-mughlai-city-wide",
+      "name": "Biryani, Kebab & Mughlai (city-wide)",
+      "description": "Beyond the old city — Bhopal's contemporary biryani and kebab scene"
+    },
+    {
+      "slug": "rooftop-lake-view-cafe-culture",
+      "name": "Rooftop, Lake-View & Cafe Culture",
+      "description": "Bhopal's Instagram-aesthetic and lake-view spots"
+    },
+    {
+      "slug": "local-cafes-hangouts",
+      "name": "Local Cafes & Hangouts",
+      "description": "Neighbourhood cafes that repeatedly show up in Bhopal “best cafe” roundups"
+    },
+    {
+      "slug": "markets-food-hubs-food-courts",
+      "name": "Markets, Food Hubs & Food Courts",
+      "description": "Where Bhopal actually goes to eat as a crowd"
+    },
+    {
+      "slug": "highway-dhaba",
+      "name": "Highway Dhaba",
+      "description": "A short-drive-out option for the itinerary"
+    },
+    {
+      "slug": "kolar-road-corridor",
+      "name": "Kolar Road Corridor",
+      "description": "South Bhopal's fast-growing residential strip — mostly local family-run stalls"
+    },
+    {
+      "slug": "shahpura-trilanga",
+      "name": "Shahpura & Trilanga",
+      "description": "Shahpura Lake's evening food-street cluster plus the Trilanga/Aura Mall strip"
+    },
+    {
+      "slug": "ashoka-garden",
+      "name": "Ashoka Garden",
+      "description": "A dense residential-market pocket with its own long-running food row"
+    },
+    {
+      "slug": "indrapuri-bhel",
+      "name": "Indrapuri & BHEL",
+      "description": "The Chaupati/hawker-corner belt serving BHEL's residential sectors"
+    },
+    {
+      "slug": "bairagarh",
+      "name": "Bairagarh",
+      "description": "The Sant Hirdaram Nagar / Kalka Mandir market cluster on the Bhopal–Indore side"
+    },
+    {
+      "slug": "karond",
+      "name": "Karond",
+      "description": "The Berasia Road / Karond Chouraha breakfast-and-mandi belt"
+    },
+    {
+      "slug": "mp-nagar-hawker-clusters-govindpura",
+      "name": "MP Nagar Hawker Clusters & Govindpura",
+      "description": "The Pragati Petrol Pump hawker strip and nearby residential-market stalls"
+    },
+    {
+      "slug": "jahangirabad",
+      "name": "Jahangirabad",
+      "description": "Old-city market food row around Jinsi Chouraha"
+    },
+    {
+      "slug": "kohefiza-idgah-hills-lalghati",
+      "name": "Kohefiza, Idgah Hills & Lalghati",
+      "description": "The Sultania Road / Royal Market food strip near Taj-ul-Masajid"
+    },
+    {
+      "slug": "bawadiya-kalan-gulmohar-rohit-nagar",
+      "name": "Bawadiya Kalan, Gulmohar & Rohit Nagar",
+      "description": "South Bhopal's newer cafe-and-chaupati belt"
+    },
+    {
+      "slug": "minal-residency-ayodhya-bypass",
+      "name": "Minal Residency & Ayodhya Bypass",
+      "description": "Minal Shopping Street's dense food-stall cluster"
+    },
+    {
+      "slug": "danish-nagar-hoshangabad-road",
+      "name": "Danish Nagar & Hoshangabad Road",
+      "description": "The Chinar Fortune City / Maple High Street cluster"
+    },
+    {
+      "slug": "saket-nagar-shakti-nagar-habibganj",
+      "name": "Saket Nagar, Shakti Nagar & Habibganj",
+      "description": "The Panchwati/Vaishali market hawker belt near AIIMS"
+    },
+    {
+      "slug": "nehru-nagar-chuna-bhatti-outskirts",
+      "name": "Nehru Nagar, Chuna Bhatti & Outskirts",
+      "description": "A scatter of neighbourhood mainstays across the outer ring"
+    }
+  ],
+  "places": [
+    {
+      "id": 1,
+      "name": "Chatori Gali",
+      "area": "Ibrahimpura, Peer Gate",
+      "known_for": "Bun kebab, mutton paya soup, korma — the night-time meat street",
+      "category": "old-bhopal-kebab-chai-chatori-trail",
+      "lat": 23.2555438,
+      "lng": 77.4023572
+    },
+    {
+      "id": 2,
+      "name": "Jameel Hotel",
+      "area": "Ibrahimpura, near Chatori Gali",
+      "known_for": "Mughlai-style kebabs, chicken tikka",
+      "category": "old-bhopal-kebab-chai-chatori-trail",
+      "lat": 23.2562732,
+      "lng": 77.401665
+    },
+    {
+      "id": 3,
+      "name": "Bade ke Kebab belt (badeMiyan)",
+      "area": "Ghora Nakkas, Peer Gate",
+      "known_for": "Hand-rolled minced-meat kebab in a grilled bun",
+      "category": "old-bhopal-kebab-chai-chatori-trail",
+      "lat": 23.2609465,
+      "lng": 77.4088253
+    },
+    {
+      "id": 4,
+      "name": "Chacha Miya Baday Walay",
+      "area": "Chowki Imambada, Peer Gate",
+      "known_for": "Paya, nahari",
+      "category": "old-bhopal-kebab-chai-chatori-trail",
+      "lat": 23.2616614,
+      "lng": 77.3964661
+    },
+    {
+      "id": 5,
+      "name": "Haji Sultan Ki Nihari",
+      "area": "Jinsi Chouraha, Jahangirabad",
+      "known_for": "Nihari",
+      "category": "old-bhopal-kebab-chai-chatori-trail",
+      "lat": 23.2503396,
+      "lng": 77.4226387
+    },
+    {
+      "id": 6,
+      "name": "Zam Zam Fast Food",
+      "area": "Hamidia Road, Peer Gate",
+      "known_for": "Mughlai/Afghan — chicken rezala, biryani, fried quail",
+      "category": "old-bhopal-kebab-chai-chatori-trail",
+      "lat": 23.2621996,
+      "lng": 77.41116
+    },
+    {
+      "id": 7,
+      "name": "Filfora Restaurant",
+      "area": "Kohefiza",
+      "known_for": "Mughlai non-veg — rogan josh, kebabs",
+      "category": "old-bhopal-kebab-chai-chatori-trail",
+      "lat": 23.2640397,
+      "lng": 77.380344
+    },
+    {
+      "id": 8,
+      "name": "Raju Tea Stall (“Fareed Bhai”)",
+      "area": "Fatehgarh, near Motia Masjid",
+      "known_for": "Chai, bun-maska, poha, mawa jalebi",
+      "category": "old-bhopal-kebab-chai-chatori-trail",
+      "lat": 23.2578646,
+      "lng": 77.3960041
+    },
+    {
+      "id": 9,
+      "name": "Suleimani Chai stall",
+      "area": "Itwara, near water tank",
+      "known_for": "Salted Bhopali Suleimani chai",
+      "category": "old-bhopal-kebab-chai-chatori-trail",
+      "lat": 23.2587128,
+      "lng": 77.4056962
+    },
+    {
+      "id": 10,
+      "name": "Jameel Tea Stall",
+      "area": "Sabban Chouraha, Jahangirabad",
+      "known_for": "Chai, samosa, kachori",
+      "category": "old-bhopal-kebab-chai-chatori-trail",
+      "lat": 23.2482984,
+      "lng": 77.415721
+    },
+    {
+      "id": 11,
+      "name": "Haji Hotel Lassi and Faluda",
+      "area": "Itwara Chowk",
+      "known_for": "Lassi, rabri faluda (a summer-only institution)",
+      "category": "old-bhopal-kebab-chai-chatori-trail",
+      "lat": 23.2586416,
+      "lng": 77.4060426
+    },
+    {
+      "id": 12,
+      "name": "Sharma Chaat Bhandar",
+      "area": "Itwara, Peer Gate",
+      "known_for": "Chole tikiya, dahi papdi chaat, pani puri",
+      "category": "old-bhopal-kebab-chai-chatori-trail",
+      "lat": 23.2593587,
+      "lng": 77.405342
+    },
+    {
+      "id": 13,
+      "name": "Kalyan Singhji Swad Bhandar",
+      "area": "Sarafa Chowk, Itwara",
+      "known_for": "Poha jalebi",
+      "category": "old-bhopal-kebab-chai-chatori-trail",
+      "lat": 23.2590624,
+      "lng": 77.4026383
+    },
+    {
+      "id": 14,
+      "name": "Mamaji Jalebi Wale",
+      "area": "Lalghati",
+      "known_for": "Poha, jalebi, samosa",
+      "category": "old-bhopal-kebab-chai-chatori-trail",
+      "lat": 23.2752577,
+      "lng": 77.3718833
+    },
+    {
+      "id": 15,
+      "name": "Indian Coffee House",
+      "area": "New Market (since 1957)",
+      "known_for": "Filter coffee, dosa, cutlets — vintage cultural landmark",
+      "category": "old-bhopal-kebab-chai-chatori-trail",
+      "lat": 23.234893,
+      "lng": 77.4017141
+    },
+    {
+      "id": 16,
+      "name": "Lazeez Hakeem",
+      "area": "MP Nagar Zone-I (since 1971)",
+      "known_for": "Mughlai non-veg — chilly chicken, biryani",
+      "category": "old-bhopal-kebab-chai-chatori-trail",
+      "lat": 23.2326875,
+      "lng": 77.4331223
+    },
+    {
+      "id": 17,
+      "name": "Hakeem Restaurant",
+      "area": "Lalghati",
+      "known_for": "Biryani, kebabs",
+      "category": "old-bhopal-kebab-chai-chatori-trail",
+      "lat": 23.2739411,
+      "lng": 77.3696752
+    },
+    {
+      "id": 18,
+      "name": "Jama Masjid precinct food stalls",
+      "area": "Chowk Bazaar, Old Bhopal",
+      "known_for": "Barfi rasmalai, fariyali khichdi, evening hawker stalls",
+      "category": "old-bhopal-kebab-chai-chatori-trail",
+      "lat": 23.2586917,
+      "lng": 77.4020743
+    },
+    {
+      "id": 19,
+      "name": "Hari Har Sandwich",
+      "area": "Ayodhya Bypass Rd, near Minal Residency Gate 3–4",
+      "known_for": "Grilled sandwich cart — went viral on Instagram; owner Abhishek Sahu now sells 600–1,000+ sandwiches/day",
+      "category": "street-stalls-small-vendors-citywide",
+      "lat": 23.278872,
+      "lng": 77.454089
+    },
+    {
+      "id": 20,
+      "name": "The Vada Pav Pit",
+      "area": "Indrapuri, Sector C",
+      "known_for": "Vada pav, schezwan vada pav, dabeli — small independent outlet",
+      "category": "street-stalls-small-vendors-citywide",
+      "lat": 23.2519402,
+      "lng": 77.4638204
+    },
+    {
+      "id": 21,
+      "name": "Chai 34",
+      "area": "Shivaji Nagar, MP Nagar",
+      "known_for": "22 flavours of kulhad chai, tandoori chai — founded by an Australia-returned chaiwala",
+      "category": "street-stalls-small-vendors-citywide",
+      "lat": 23.2271006,
+      "lng": 77.4349977
+    },
+    {
+      "id": 22,
+      "name": "Radha Krishna Juice Centre",
+      "area": "Piplani, Indrapuri",
+      "known_for": "Fresh fruit juices, no added sugar — small owner-run counter",
+      "category": "street-stalls-small-vendors-citywide",
+      "lat": 23.2506944,
+      "lng": 77.4630252
+    },
+    {
+      "id": 23,
+      "name": "Bombay Sandwich",
+      "area": "45 Bunglows, TT Nagar",
+      "known_for": "Street-style sandwich variety stall",
+      "category": "street-stalls-small-vendors-citywide",
+      "lat": 23.2374477,
+      "lng": 77.4002849
+    },
+    {
+      "id": 24,
+      "name": "Fruit Crush Cafe",
+      "area": "Patel Nagar, Raisen Road",
+      "known_for": "Fruit crush, juices, sandwiches, chaat",
+      "category": "street-stalls-small-vendors-citywide",
+      "lat": 23.2515881,
+      "lng": 77.5023074
+    },
+    {
+      "id": 25,
+      "name": "Dinesh Meena Tea and Maggi Corner",
+      "area": "Near Kaliyasot Dam",
+      "known_for": "Maggi & chai with a lake view — run by “Dinesh bhaiya”, a 10+ year local fixture",
+      "category": "street-stalls-small-vendors-citywide",
+      "lat": 23.1920372,
+      "lng": 77.4079864
+    },
+    {
+      "id": 26,
+      "name": "Naetik Maggi",
+      "area": "Van Vihar Road, Shyamla Hills",
+      "known_for": "Maggi and tea stall with a hillside view",
+      "category": "street-stalls-small-vendors-citywide",
+      "lat": 23.2416548,
+      "lng": 77.3796282
+    },
+    {
+      "id": 27,
+      "name": "Qamar Bhai – Paya Soup Wale",
+      "area": "Chowki Talaiya, near Chatori Gali",
+      "known_for": "Mutton paya soup — a single-owner stall running 12+ years",
+      "category": "street-stalls-small-vendors-citywide",
+      "lat": 23.2547997,
+      "lng": 77.40451
+    },
+    {
+      "id": 28,
+      "name": "Waheguru Dal Pakwan",
+      "area": "12 No. Stop, Arera Colony",
+      "known_for": "Sindhi dal pakwan — a small breakfast-only specialist counter",
+      "category": "street-stalls-small-vendors-citywide",
+      "lat": 23.2030884,
+      "lng": 77.4369486
+    },
+    {
+      "id": 29,
+      "name": "Sai Nath Poha Jalebi",
+      "area": "Karond",
+      "known_for": "Poha-jalebi breakfast cart, open from 5am",
+      "category": "street-stalls-small-vendors-citywide",
+      "lat": 23.2952155,
+      "lng": 77.4035634
+    },
+    {
+      "id": 30,
+      "name": "Manohar Dairy & Restaurant – Hamidia Road",
+      "area": "Peer Gate (original, est. 1970)",
+      "known_for": "Chole bhature, sweets, South Indian",
+      "category": "iconic-institutions-sweets-chaat-legacy-eateries",
+      "lat": 23.2641779,
+      "lng": 77.4084519
+    },
+    {
+      "id": 31,
+      "name": "Manohar Dairy & Restaurant – MP Nagar",
+      "area": "MP Nagar Zone-I",
+      "known_for": "Chole bhature, thali, malpua",
+      "category": "iconic-institutions-sweets-chaat-legacy-eateries",
+      "lat": 23.2341882,
+      "lng": 77.4340556
+    },
+    {
+      "id": 32,
+      "name": "Manohar Dairy – 10 No. Market",
+      "area": "Arera Colony",
+      "known_for": "Poha-jalebi, chaat, dairy sweets",
+      "category": "iconic-institutions-sweets-chaat-legacy-eateries",
+      "lat": 23.2147331,
+      "lng": 77.4362986
+    },
+    {
+      "id": 33,
+      "name": "Chhappan Bhog",
+      "area": "TT Nagar / New Market",
+      "known_for": "Chaat, pani-puri, jalebi, mithai",
+      "category": "iconic-institutions-sweets-chaat-legacy-eateries",
+      "lat": 23.2338155,
+      "lng": 77.40305
+    },
+    {
+      "id": 34,
+      "name": "Sagar Gaire – Cycle Soup Wala",
+      "area": "Ashoka Garden (flagship)",
+      "known_for": "Soups, paneer kulcha — started as a bicycle soup cart",
+      "category": "iconic-institutions-sweets-chaat-legacy-eateries",
+      "lat": 23.2574185,
+      "lng": 77.430482
+    },
+    {
+      "id": 35,
+      "name": "Milan Sweets and Namkeen",
+      "area": "MP Nagar Zone-I",
+      "known_for": "Chaat, namkeen, sweets",
+      "category": "iconic-institutions-sweets-chaat-legacy-eateries",
+      "lat": 23.2325172,
+      "lng": 77.4335668
+    },
+    {
+      "id": 36,
+      "name": "Brijwasi Mishthan Bhandar",
+      "area": "New Market, TT Nagar",
+      "known_for": "Sweets, chaat, breakfast snacks",
+      "category": "iconic-institutions-sweets-chaat-legacy-eateries",
+      "lat": 23.2363517,
+      "lng": 77.40145
+    },
+    {
+      "id": 37,
+      "name": "Kuber Dairy",
+      "area": "Piplani, BHEL",
+      "known_for": "Sweets, dairy, snacks",
+      "category": "iconic-institutions-sweets-chaat-legacy-eateries",
+      "lat": 23.2496556,
+      "lng": 77.4694877
+    },
+    {
+      "id": 38,
+      "name": "Kwality Sweets",
+      "area": "Sonagiri (since the 1960s)",
+      "known_for": "Sweets, bakery, chaat",
+      "category": "iconic-institutions-sweets-chaat-legacy-eateries",
+      "lat": 23.249364,
+      "lng": 77.4711734
+    },
+    {
+      "id": 39,
+      "name": "Gaagar – Premium Sweet Store (MP Nagar)",
+      "area": "MP Nagar Zone-I (est. 1973)",
+      "known_for": "Boondi ladoo, kalakand, chaat",
+      "category": "iconic-institutions-sweets-chaat-legacy-eateries",
+      "lat": 23.233435,
+      "lng": 77.4342747
+    },
+    {
+      "id": 40,
+      "name": "Gaagar – Premium Sweet Store (10 No.)",
+      "area": "Arera Colony",
+      "known_for": "Kaju pista roll, chaat, mithai",
+      "category": "iconic-institutions-sweets-chaat-legacy-eateries",
+      "lat": 23.214344,
+      "lng": 77.4342181
+    },
+    {
+      "id": 41,
+      "name": "Nerbada Sweets & Restaurant",
+      "area": "Bairagarh",
+      "known_for": "Sweets, thali, chaat",
+      "category": "iconic-institutions-sweets-chaat-legacy-eateries",
+      "lat": 23.2728797,
+      "lng": 77.3436199
+    },
+    {
+      "id": 42,
+      "name": "Neelam Sweet Corner",
+      "area": "Piplani, BHEL",
+      "known_for": "Namkeen, pyaaz kachori",
+      "category": "iconic-institutions-sweets-chaat-legacy-eateries",
+      "lat": 23.2446932,
+      "lng": 77.4668319
+    },
+    {
+      "id": 43,
+      "name": "Sweet N Sour",
+      "area": "Indrapuri",
+      "known_for": "Sweets, snacks",
+      "category": "iconic-institutions-sweets-chaat-legacy-eateries",
+      "lat": 23.2507968,
+      "lng": 77.464535
+    },
+    {
+      "id": 44,
+      "name": "Top ’N Town Ice Cream Parlour",
+      "area": "New Market",
+      "known_for": "Ice cream, sundaes, shakes — 25-year college-crowd landmark",
+      "category": "iconic-institutions-sweets-chaat-legacy-eateries",
+      "lat": 23.2354043,
+      "lng": 77.4012043
+    },
+    {
+      "id": 45,
+      "name": "Chat Kulture",
+      "area": "5 No. Stop, Shivaji Nagar",
+      "known_for": "Raj kachori, fusion chaat",
+      "category": "iconic-institutions-sweets-chaat-legacy-eateries",
+      "lat": 23.2273884,
+      "lng": 77.4227617
+    },
+    {
+      "id": 46,
+      "name": "Tilakram’s Sweets, Bakery & Restaurant",
+      "area": "Bhanpur / Peoples Campus",
+      "known_for": "Chaat, thali, bakery",
+      "category": "iconic-institutions-sweets-chaat-legacy-eateries",
+      "lat": 23.3024608,
+      "lng": 77.4235488
+    },
+    {
+      "id": 47,
+      "name": "Baker’s Castle",
+      "area": "Arera Colony",
+      "known_for": "Custom cakes, cheesecake, pastries",
+      "category": "bakeries-desserts-ice-cream",
+      "lat": 23.2149522,
+      "lng": 77.4289829
+    },
+    {
+      "id": 48,
+      "name": "Choco Culture",
+      "area": "Katara, Bhopal",
+      "known_for": "Homemade cakes, chocolates",
+      "category": "bakeries-desserts-ice-cream",
+      "lat": 23.1739024,
+      "lng": 77.4831635
+    },
+    {
+      "id": 49,
+      "name": "Bake-n-Shake",
+      "area": "10 No. Stop, Arera Colony",
+      "known_for": "Cakes, pastries, tres-leches, lasagna",
+      "category": "bakeries-desserts-ice-cream",
+      "lat": 23.214473,
+      "lng": 77.435047
+    },
+    {
+      "id": 50,
+      "name": "Sweets Bar Patisserie by Monil",
+      "area": "Malviya Nagar",
+      "known_for": "Custom cakes, baklava, cookies",
+      "category": "bakeries-desserts-ice-cream",
+      "lat": 23.2361409,
+      "lng": 77.402481
+    },
+    {
+      "id": 51,
+      "name": "ColdPan – Ice Cream Rolls",
+      "area": "Indrapuri",
+      "known_for": "Live-rolled ice cream",
+      "category": "bakeries-desserts-ice-cream",
+      "lat": 23.2507256,
+      "lng": 77.4670274
+    },
+    {
+      "id": 52,
+      "name": "Bhopal Bakehouse & Cafe",
+      "area": "10 No. Market, Arera Colony",
+      "known_for": "Pizza, focaccia, coffee, pastries",
+      "category": "bakeries-desserts-ice-cream",
+      "lat": 23.2143424,
+      "lng": 77.4341329
+    },
+    {
+      "id": 53,
+      "name": "Amer Bakery Hut",
+      "area": "Bittan Market, Arera Colony",
+      "known_for": "Pastries, lasagna, desserts (est. 2001)",
+      "category": "bakeries-desserts-ice-cream",
+      "lat": 23.2172222,
+      "lng": 77.4275
+    },
+    {
+      "id": 54,
+      "name": "Jai Hind Bakery",
+      "area": "Sindhi Market, Peer Gate (since 1949)",
+      "known_for": "Cakes, pastries — one of Bhopal’s oldest bakeries",
+      "category": "bakeries-desserts-ice-cream",
+      "lat": 23.2602093,
+      "lng": 77.3987576
+    },
+    {
+      "id": 55,
+      "name": "House of Ming",
+      "area": "Bhadbhada Road, Prempura",
+      "known_for": "Premium Chinese — dim sum, Peking dishes",
+      "category": "momos-chinese-rolls",
+      "lat": 23.2157496,
+      "lng": 77.3836807
+    },
+    {
+      "id": 56,
+      "name": "Wow! Momo",
+      "area": "DB City Mall, MP Nagar",
+      "known_for": "Momos, combos (national chain outlet)",
+      "category": "momos-chinese-rolls",
+      "lat": 23.232989,
+      "lng": 77.429883
+    },
+    {
+      "id": 57,
+      "name": "The Momos Club",
+      "area": "Chuna Bhatti",
+      "known_for": "Darjeeling gravy & tandoori momos",
+      "category": "momos-chinese-rolls",
+      "lat": 23.200159,
+      "lng": 77.4121272
+    },
+    {
+      "id": 58,
+      "name": "Ma Se Momos",
+      "area": "Tulsi Nagar",
+      "known_for": "Paneer sauté momos, kurkure momos",
+      "category": "momos-chinese-rolls",
+      "lat": 23.2303358,
+      "lng": 77.4114107
+    },
+    {
+      "id": 59,
+      "name": "Momos And More",
+      "area": "10 No. Market, Arera Colony",
+      "known_for": "Cheese makhani & schezwan momos",
+      "category": "momos-chinese-rolls",
+      "lat": 23.2147561,
+      "lng": 77.4343022
+    },
+    {
+      "id": 60,
+      "name": "Goswami Chinese Momos",
+      "area": "Ashoka Garden",
+      "known_for": "Street-style momos with red chutney",
+      "category": "momos-chinese-rolls",
+      "lat": 23.2576368,
+      "lng": 77.4318891
+    },
+    {
+      "id": 61,
+      "name": "Mitho Wok Street",
+      "area": "Bawadia Kalan",
+      "known_for": "Fiery Indo-Chinese, momos, soups",
+      "category": "momos-chinese-rolls",
+      "lat": 23.1769863,
+      "lng": 77.4385774
+    },
+    {
+      "id": 62,
+      "name": "Sharma & Vishnu Fast Food Center",
+      "area": "Bawadiya Kalan / 7 No. Market",
+      "known_for": "Street-style Chinese, chole kulcha",
+      "category": "momos-chinese-rolls",
+      "lat": 23.185834,
+      "lng": 77.4329469
+    },
+    {
+      "id": 63,
+      "name": "Hong Kong Chinese Restaurant",
+      "area": "MP Nagar Zone-II",
+      "known_for": "Thukpa, noodles, Oriental cuisine",
+      "category": "momos-chinese-rolls",
+      "lat": 23.2292348,
+      "lng": 77.4351617
+    },
+    {
+      "id": 64,
+      "name": "Rice Bowl Thai & Chinese",
+      "area": "MP Nagar Zone-II",
+      "known_for": "Dragon chicken, drums of heaven, noodles",
+      "category": "momos-chinese-rolls",
+      "lat": 23.2241529,
+      "lng": 77.4363393
+    },
+    {
+      "id": 65,
+      "name": "Sankalp – The Taste Of South",
+      "area": "Bansal One, Habibganj",
+      "known_for": "Dosa, idli, thali",
+      "category": "south-indian",
+      "lat": 23.2230328,
+      "lng": 77.4383813
+    },
+    {
+      "id": 66,
+      "name": "Sigdi Dosa & Cafe Yolo",
+      "area": "10 No. Market, Arera Colony",
+      "known_for": "Fusion dosas — sigdi special, Ginny dosa",
+      "category": "south-indian",
+      "lat": 23.214352,
+      "lng": 77.434219
+    },
+    {
+      "id": 67,
+      "name": "Sigdi Dosa – Keyaansh",
+      "area": "Minal Shopping Street",
+      "known_for": "Rocket dosa, Jinny dosa, vada pav",
+      "category": "south-indian",
+      "lat": 23.2711255,
+      "lng": 77.4586481
+    },
+    {
+      "id": 68,
+      "name": "Ganesham Fast Food",
+      "area": "Kolar Road",
+      "known_for": "Dosa, chole kulche, cold coffee",
+      "category": "south-indian",
+      "lat": 23.1819785,
+      "lng": 77.4169945
+    },
+    {
+      "id": 69,
+      "name": "Shri Prasadam",
+      "area": "MP Nagar Zone-II",
+      "known_for": "Button idli, idiyappam, mini meals thali",
+      "category": "south-indian",
+      "lat": 23.2291156,
+      "lng": 77.4350342
+    },
+    {
+      "id": 70,
+      "name": "South Tak",
+      "area": "Arera Colony",
+      "known_for": "Idli-vada, Mysore masala dosa, filter coffee",
+      "category": "south-indian",
+      "lat": 23.2107648,
+      "lng": 77.4364368
+    },
+    {
+      "id": 71,
+      "name": "MPT Southern Spices",
+      "area": "TT Nagar (MP Tourism)",
+      "known_for": "South Indian thali, masala dosa",
+      "category": "south-indian",
+      "lat": 23.2383197,
+      "lng": 77.3959182
+    },
+    {
+      "id": 72,
+      "name": "Meenu’s Dosa",
+      "area": "MP Nagar Zone-II",
+      "known_for": "Masala dosa, cold coffee",
+      "category": "south-indian",
+      "lat": 23.2294278,
+      "lng": 77.4359752
+    },
+    {
+      "id": 73,
+      "name": "Mr. Idli",
+      "area": "Gulmohar Colony",
+      "known_for": "Thatta idli, podi idli, sizzlers",
+      "category": "south-indian",
+      "lat": 23.187793,
+      "lng": 77.4328936
+    },
+    {
+      "id": 74,
+      "name": "Cafe Drumsticks",
+      "area": "Bawadiya Kalan / Shahpura area",
+      "known_for": "Benne dosa, filter coffee, appe",
+      "category": "south-indian",
+      "lat": 23.1805727,
+      "lng": 77.4370564
+    },
+    {
+      "id": 75,
+      "name": "Shahnama – Jehan Numa Palace",
+      "area": "Shyamla Hills",
+      "known_for": "Premium buffet — Bhopali korma, kathal biryani",
+      "category": "biryani-kebab-mughlai-city-wide",
+      "lat": 23.240209,
+      "lng": 77.3871619
+    },
+    {
+      "id": 76,
+      "name": "The Zara’s Tikka House",
+      "area": "Railway Colony",
+      "known_for": "Smoky kebabs, fish tikka",
+      "category": "biryani-kebab-mughlai-city-wide",
+      "lat": 23.2612588,
+      "lng": 77.4111723
+    },
+    {
+      "id": 77,
+      "name": "Ba-Dastoor",
+      "area": "Chinar Fortune City, Narmadapuram Rd",
+      "known_for": "Hyderabadi dum biryani, BBQ mandi",
+      "category": "biryani-kebab-mughlai-city-wide",
+      "lat": 23.1822069,
+      "lng": 77.4547609
+    },
+    {
+      "id": 78,
+      "name": "Kebabsville",
+      "area": "Sayaji Hotel, Van Vihar Road",
+      "known_for": "Poolside buffet, tandoor, barbecue",
+      "category": "biryani-kebab-mughlai-city-wide",
+      "lat": 23.2195109,
+      "lng": 77.3726965
+    },
+    {
+      "id": 79,
+      "name": "Spice Ring",
+      "area": "Gandhi Nagar (outskirts)",
+      "known_for": "Malai tikka, biryani, mixed-cuisine lounge",
+      "category": "biryani-kebab-mughlai-city-wide",
+      "lat": 23.2946865,
+      "lng": 77.3550927
+    },
+    {
+      "id": 80,
+      "name": "Gauhar Mahal precinct",
+      "area": "VIP Road, Chowki Talaiya (Upper Lake)",
+      "known_for": "Heritage palace, rooftop-cafe row, filming location",
+      "category": "rooftop-lake-view-cafe-culture",
+      "lat": 23.2549257,
+      "lng": 77.398051
+    },
+    {
+      "id": 81,
+      "name": "Cafe InfiniTea",
+      "area": "Jahangirabad, Lower Lake",
+      "known_for": "Rooftop lake-view cafe, hookah, telescope seating",
+      "category": "rooftop-lake-view-cafe-culture",
+      "lat": 23.2538121,
+      "lng": 77.4124581
+    },
+    {
+      "id": 82,
+      "name": "Farzi Cafe, Bhopal",
+      "area": "Bansal One, Habibganj",
+      "known_for": "Gourmet modern-Indian bistro",
+      "category": "rooftop-lake-view-cafe-culture",
+      "lat": 23.222743,
+      "lng": 77.4387548
+    },
+    {
+      "id": 83,
+      "name": "Aasma / Ginger Bhopal, Shahpura Lake",
+      "area": "Chuna Bhatti, Kolar Road",
+      "known_for": "Rooftop dining overlooking Shahpura Lake",
+      "category": "rooftop-lake-view-cafe-culture",
+      "lat": 23.2043692,
+      "lng": 77.4165792
+    },
+    {
+      "id": 84,
+      "name": "Corner Cafe Vintage",
+      "area": "10 No. Market, Arera Colony",
+      "known_for": "Family-style cafe, soups, idli",
+      "category": "rooftop-lake-view-cafe-culture",
+      "lat": 23.2144804,
+      "lng": 77.4313204
+    },
+    {
+      "id": 85,
+      "name": "Ecko – Artisanal Bistro",
+      "area": "Gulmohar Colony",
+      "known_for": "Rooftop 360° views, lasagna, mocktails",
+      "category": "rooftop-lake-view-cafe-culture",
+      "lat": 23.1937297,
+      "lng": 77.4354854
+    },
+    {
+      "id": 86,
+      "name": "Lamington",
+      "area": "Arera Colony",
+      "known_for": "Boho cafe — kunafa brownie, filter coffee",
+      "category": "rooftop-lake-view-cafe-culture",
+      "lat": 23.208588,
+      "lng": 77.4363875
+    },
+    {
+      "id": 87,
+      "name": "Fool’s Fortune Cafè",
+      "area": "Trilanga, near Shahpura",
+      "known_for": "Tarot-themed cafe, pizza, shakes",
+      "category": "rooftop-lake-view-cafe-culture",
+      "lat": 23.1920784,
+      "lng": 77.4336025
+    },
+    {
+      "id": 88,
+      "name": "10 Downing Street",
+      "area": "DB City Mall, MP Nagar",
+      "known_for": "English pub-style dining, live music",
+      "category": "rooftop-lake-view-cafe-culture",
+      "lat": 23.232117,
+      "lng": 77.4302848
+    },
+    {
+      "id": 89,
+      "name": "High Spirits – Pub & Grille",
+      "area": "Ranjit’s Lakeview, Shyamla Hills",
+      "known_for": "Lake-and-hill view rooftop bar",
+      "category": "rooftop-lake-view-cafe-culture",
+      "lat": 23.2440863,
+      "lng": 77.3867123
+    },
+    {
+      "id": 90,
+      "name": "Tattv Art Cafe & Library",
+      "area": "Kerwa Dam Road",
+      "known_for": "Art-and-books themed cafe",
+      "category": "rooftop-lake-view-cafe-culture",
+      "lat": 23.1794005,
+      "lng": 77.3637163
+    },
+    {
+      "id": 91,
+      "name": "Jehan Numa Palace (CafeChino / Tao)",
+      "area": "Shyamla Hills",
+      "known_for": "Heritage-hotel cafes and fine dining",
+      "category": "rooftop-lake-view-cafe-culture",
+      "lat": 23.2402177,
+      "lng": 77.386906
+    },
+    {
+      "id": 92,
+      "name": "Cafe Alabina, Lounge & Restaurant",
+      "area": "Shivaji Nagar, near Habibganj Stn",
+      "known_for": "Shisha, Chinese platter, hangout lounge",
+      "category": "rooftop-lake-view-cafe-culture",
+      "lat": 23.2217342,
+      "lng": 77.4375388
+    },
+    {
+      "id": 93,
+      "name": "The Lake City Socialite (Urban Socialite)",
+      "area": "Hotel Lake View Ashok, Shyamla Hills",
+      "known_for": "Upper Lake sunset views, multi-cuisine",
+      "category": "rooftop-lake-view-cafe-culture",
+      "lat": 23.2431901,
+      "lng": 77.3877506
+    },
+    {
+      "id": 94,
+      "name": "Skyrim Rooftop Cafe & Fine Dining",
+      "area": "Kolar Road",
+      "known_for": "Rooftop party venue",
+      "category": "rooftop-lake-view-cafe-culture",
+      "lat": 23.172153,
+      "lng": 77.41865
+    },
+    {
+      "id": 95,
+      "name": "Under The Mango Tree",
+      "area": "Jehan Numa Palace, Shyamla Hills",
+      "known_for": "North Indian under an actual mango tree",
+      "category": "rooftop-lake-view-cafe-culture",
+      "lat": 23.2400719,
+      "lng": 77.3868035
+    },
+    {
+      "id": 96,
+      "name": "La Kuchina",
+      "area": "Jehan Numa Palace, Shyamla Hills",
+      "known_for": "Wood-fired Italian, since 1890 heritage setting",
+      "category": "rooftop-lake-view-cafe-culture",
+      "lat": 23.2400852,
+      "lng": 77.3870563
+    },
+    {
+      "id": 97,
+      "name": "Pind Balluchi",
+      "area": "MP Nagar Zone-I",
+      "known_for": "North Indian, Punjabi",
+      "category": "rooftop-lake-view-cafe-culture",
+      "lat": 23.2313434,
+      "lng": 77.4326473
+    },
+    {
+      "id": 98,
+      "name": "Swaad",
+      "area": "MP Nagar Zone-I",
+      "known_for": "Pure-veg biryani, mint drink",
+      "category": "rooftop-lake-view-cafe-culture",
+      "lat": 23.232052,
+      "lng": 77.433175
+    },
+    {
+      "id": 99,
+      "name": "The Cravings Cafe",
+      "area": "10 No. Stop, Arera Colony",
+      "known_for": "Open-air chai cafe, fried ice cream",
+      "category": "rooftop-lake-view-cafe-culture",
+      "lat": 23.2132244,
+      "lng": 77.4372079
+    },
+    {
+      "id": 100,
+      "name": "Quality Time’s Cafe",
+      "area": "MP Nagar Zone-II",
+      "known_for": "Kiwi shake, paneer bullets, mocktails",
+      "category": "local-cafes-hangouts",
+      "lat": 23.2329226,
+      "lng": 77.4364797
+    },
+    {
+      "id": 101,
+      "name": "Chai & More",
+      "area": "MP Nagar Zone-II",
+      "known_for": "Tea varieties, board games",
+      "category": "local-cafes-hangouts",
+      "lat": 23.2289973,
+      "lng": 77.4368241
+    },
+    {
+      "id": 102,
+      "name": "Cafe Chokolade",
+      "area": "Bagmugaliya, Hoshangabad Road",
+      "known_for": "Chocolate shakes, sizzling brownie",
+      "category": "local-cafes-hangouts",
+      "lat": 23.1804635,
+      "lng": 77.4570049
+    },
+    {
+      "id": 103,
+      "name": "11 No. Stop hawker corner",
+      "area": "Arera Colony",
+      "known_for": "Lemon tea, juices, lassi hawkers",
+      "category": "local-cafes-hangouts",
+      "lat": 23.2102035,
+      "lng": 77.4366705
+    },
+    {
+      "id": 104,
+      "name": "New Market",
+      "area": "TT Nagar",
+      "known_for": "Poha, jalebi, samosa, chaat — the oldest evening food market",
+      "category": "markets-food-hubs-food-courts",
+      "lat": 23.2356359,
+      "lng": 77.4006229
+    },
+    {
+      "id": 105,
+      "name": "Bittan Market",
+      "area": "Arera Colony",
+      "known_for": "Vegetable market ringed by cafes & bakeries",
+      "category": "markets-food-hubs-food-courts",
+      "lat": 23.2159902,
+      "lng": 77.4297288
+    },
+    {
+      "id": 106,
+      "name": "Bhopal Haat",
+      "area": "Arera Hills",
+      "known_for": "Craft market with festival food stalls",
+      "category": "markets-food-hubs-food-courts",
+      "lat": 23.2337084,
+      "lng": 77.4287804
+    },
+    {
+      "id": 107,
+      "name": "DB City Mall Food Court",
+      "area": "MP Nagar Zone-I",
+      "known_for": "Multi-chain food court, rooftop seating",
+      "category": "markets-food-hubs-food-courts",
+      "lat": 23.233179,
+      "lng": 77.4297446
+    },
+    {
+      "id": 108,
+      "name": "Rangla Punjab Dhaba",
+      "area": "Bhopal Bypass, Kurana",
+      "known_for": "Punjabi dhaba — butter paneer, tandoori roti",
+      "category": "highway-dhaba",
+      "lat": 23.3241451,
+      "lng": 77.3315583
+    },
+    {
+      "id": 109,
+      "name": "Mohan Bhai Chicken & Fast Food Corner",
+      "area": "Banjari, Kolar Road",
+      "known_for": "Butter chicken, tikka",
+      "category": "kolar-road-corridor",
+      "lat": 23.1776176,
+      "lng": 77.4173469
+    },
+    {
+      "id": 110,
+      "name": "Shahi Biryani Box",
+      "area": "Mandakini Colony, Kolar Road",
+      "known_for": "Biryani, chole bhature",
+      "category": "kolar-road-corridor",
+      "lat": 23.184245,
+      "lng": 77.4178635
+    },
+    {
+      "id": 111,
+      "name": "Chai-Fi by GSS Kitchen",
+      "area": "Lalita Nagar, Kolar Road",
+      "known_for": "Maggi, pasta, spring potato",
+      "category": "kolar-road-corridor",
+      "lat": 23.1638038,
+      "lng": 77.4191352
+    },
+    {
+      "id": 112,
+      "name": "Chouhan Tea Stall",
+      "area": "Bairagarh Chichali, Kolar Road",
+      "known_for": "Tea, samosa breakfast stall",
+      "category": "kolar-road-corridor",
+      "lat": 23.1537854,
+      "lng": 77.4120761
+    },
+    {
+      "id": 113,
+      "name": "Gurunanak Chaat Centre",
+      "area": "Hinotiya Alam, Kolar Road",
+      "known_for": "Pani puri, dahi puri — imli chutney is the USP",
+      "category": "kolar-road-corridor",
+      "lat": 23.1662564,
+      "lng": 77.428536
+    },
+    {
+      "id": 114,
+      "name": "Naukriwala Cafe",
+      "area": "Kolar Road, near Drishti City",
+      "known_for": "Chole bhature, chaat",
+      "category": "kolar-road-corridor",
+      "lat": 23.1243073,
+      "lng": 77.4054321
+    },
+    {
+      "id": 115,
+      "name": "Food Circle",
+      "area": "Bairagarh Chichali, Kolar Road",
+      "known_for": "Multi-cuisine local eatery",
+      "category": "kolar-road-corridor",
+      "lat": 23.158635,
+      "lng": 77.4183756
+    },
+    {
+      "id": 116,
+      "name": "Shahpura Hawkers",
+      "area": "Campion School Rd, Shahpura",
+      "known_for": "Amritsari paratha, momos, paan, mojitos",
+      "category": "shahpura-trilanga",
+      "lat": 23.2057876,
+      "lng": 77.4276885
+    },
+    {
+      "id": 117,
+      "name": "Tandoor Restaurant (since 1997)",
+      "area": "Campion St food street, Shahpura",
+      "known_for": "Tangdi, shawarma — anchor of “Campion Street” food row",
+      "category": "shahpura-trilanga",
+      "lat": 23.2056875,
+      "lng": 77.4265625
+    },
+    {
+      "id": 118,
+      "name": "Smack Food Truck Bhopal",
+      "area": "Hawkers Corner, Campion St, Shahpura",
+      "known_for": "Malai chaap, smoky chicken biryani",
+      "category": "shahpura-trilanga",
+      "lat": 23.2056175,
+      "lng": 77.4263159
+    },
+    {
+      "id": 119,
+      "name": "Gossip Gali",
+      "area": "Campion Street Choupati, Shahpura",
+      "known_for": "Custom-order noodles, casual hangout",
+      "category": "shahpura-trilanga",
+      "lat": 23.2056656,
+      "lng": 77.4271742
+    },
+    {
+      "id": 120,
+      "name": "Manisha Market",
+      "area": "Sector A, Shahpura",
+      "known_for": "Hawkers-corner fast food inside a daily-needs market",
+      "category": "shahpura-trilanga",
+      "lat": 23.2015368,
+      "lng": 77.4258484
+    },
+    {
+      "id": 121,
+      "name": "Mr. Veggie's Grill",
+      "area": "Manisha Market, Shahpura",
+      "known_for": "Sandwiches, noodles",
+      "category": "shahpura-trilanga",
+      "lat": 23.2015413,
+      "lng": 77.4254886
+    },
+    {
+      "id": 122,
+      "name": "Yewale Amruttulya Gulmohar",
+      "area": "Trilanga, opp. Bapu Ki Kutia",
+      "known_for": "Kadak chai, lemon-honey tea",
+      "category": "shahpura-trilanga",
+      "lat": 23.1879966,
+      "lng": 77.4334119
+    },
+    {
+      "id": 123,
+      "name": "Cook Dooh Kooh",
+      "area": "Akashganga Colony, Shahpura",
+      "known_for": "Chicken fried rice, North Indian curries",
+      "category": "shahpura-trilanga",
+      "lat": 23.1947352,
+      "lng": 77.4338499
+    },
+    {
+      "id": 124,
+      "name": "Taste of Pune – Vadapav Misal Pav",
+      "area": "opp. Westside, near Aura Mall, Trilanga",
+      "known_for": "Maharashtrian vada pav, misal pav, puran poli",
+      "category": "shahpura-trilanga",
+      "lat": 23.1893788,
+      "lng": 77.4329852
+    },
+    {
+      "id": 125,
+      "name": "Burger Thela",
+      "area": "Ashoka Garden",
+      "known_for": "Burgers, cold coffee — small cafe-thela hybrid",
+      "category": "ashoka-garden",
+      "lat": 23.2571933,
+      "lng": 77.432198
+    },
+    {
+      "id": 126,
+      "name": "6 No. Hawkers Corner",
+      "area": "Shivaji Nagar / 6 Number Bus Stop",
+      "known_for": "Chaat, bedhai poori, mawa-bati stalls",
+      "category": "ashoka-garden",
+      "lat": 23.2283754,
+      "lng": 77.428355
+    },
+    {
+      "id": 127,
+      "name": "Bhopal Ka Zayka",
+      "area": "New Ashoka Garden",
+      "known_for": "Biryani, veg & non-veg fast food",
+      "category": "ashoka-garden",
+      "lat": 23.256075,
+      "lng": 77.4295027
+    },
+    {
+      "id": 128,
+      "name": "Chandra Sweets & Restaurant",
+      "area": "New Ashoka Garden",
+      "known_for": "Barfi, snacks, multi-cuisine thali",
+      "category": "ashoka-garden",
+      "lat": 23.2575033,
+      "lng": 77.4320578
+    },
+    {
+      "id": 129,
+      "name": "Chinese Food Adda",
+      "area": "Iqbal Colony, Ashoka Garden",
+      "known_for": "Veg kothey, cold coffee",
+      "category": "ashoka-garden",
+      "lat": 23.2570423,
+      "lng": 77.4309294
+    },
+    {
+      "id": 130,
+      "name": "Samudra Manthan Restro",
+      "area": "New Ashoka Garden",
+      "known_for": "Everyday thali & fast food",
+      "category": "ashoka-garden",
+      "lat": 23.2544765,
+      "lng": 77.4300723
+    },
+    {
+      "id": 131,
+      "name": "Tiwari's Fast Food and Restaurant",
+      "area": "New Ashoka Garden",
+      "known_for": "Budget fast food",
+      "category": "ashoka-garden",
+      "lat": 23.2592338,
+      "lng": 77.4321814
+    },
+    {
+      "id": 132,
+      "name": "Shera Tea Stall and South Indian Food",
+      "area": "Ashoka Garden",
+      "known_for": "Tea, South Indian snacks",
+      "category": "ashoka-garden",
+      "lat": 23.2571506,
+      "lng": 77.4301201
+    },
+    {
+      "id": 133,
+      "name": "Hawkers Corner (Bhagat Singh Market)",
+      "area": "Sector A, Indrapuri",
+      "known_for": "Indo-Chinese street food zone",
+      "category": "indrapuri-bhel",
+      "lat": 23.2518046,
+      "lng": 77.459736
+    },
+    {
+      "id": 134,
+      "name": "Miss Delight",
+      "area": "Hawkers Corner, Indrapuri",
+      "known_for": "Budget street food, vada pav",
+      "category": "indrapuri-bhel",
+      "lat": 23.2518148,
+      "lng": 77.4597363
+    },
+    {
+      "id": 135,
+      "name": "La Fries",
+      "area": "Bhagat Singh Market, Indrapuri",
+      "known_for": "Fries, momos, cafe seating",
+      "category": "indrapuri-bhel",
+      "lat": 23.2518154,
+      "lng": 77.4597365
+    },
+    {
+      "id": 136,
+      "name": "Chaupati",
+      "area": "Sector A, Indrapuri",
+      "known_for": "Kulhad chai, Chinese — Indrapuri's own “chowpatty”",
+      "category": "indrapuri-bhel",
+      "lat": 23.2517715,
+      "lng": 77.459523
+    },
+    {
+      "id": 137,
+      "name": "Swagat Fast Food",
+      "area": "Sector A, Indrapuri",
+      "known_for": "Chicken rolls, biryani, Kolkata-style food",
+      "category": "indrapuri-bhel",
+      "lat": 23.2522648,
+      "lng": 77.459665
+    },
+    {
+      "id": 138,
+      "name": "Sharma Vishnu Fast Food (Indrapuri)",
+      "area": "Sector A/B, Indrapuri",
+      "known_for": "Indian thali combos, decades-old staple",
+      "category": "indrapuri-bhel",
+      "lat": 23.2510099,
+      "lng": 77.460926
+    },
+    {
+      "id": 139,
+      "name": "Bajrang Sweets",
+      "area": "Indrapuri C Sector, BHEL",
+      "known_for": "Sweets, namkeen, chaat",
+      "category": "indrapuri-bhel",
+      "lat": 23.2505512,
+      "lng": 77.4639773
+    },
+    {
+      "id": 140,
+      "name": "Taste Of Street",
+      "area": "Adarsh Market, Piplani, BHEL",
+      "known_for": "Punjabi thali, fast food",
+      "category": "indrapuri-bhel",
+      "lat": 23.2480369,
+      "lng": 77.4708884
+    },
+    {
+      "id": 141,
+      "name": "Mukesh Sweets And Restaurant",
+      "area": "Piplani, Anand Nagar",
+      "known_for": "Dosa, pav bhaji, bakery counter",
+      "category": "indrapuri-bhel",
+      "lat": 23.2517046,
+      "lng": 77.4864936
+    },
+    {
+      "id": 142,
+      "name": "Momomia",
+      "area": "Sant Hirdaram Nagar, Bairagarh",
+      "known_for": "Crispy momos, Manchurian, noodles",
+      "category": "bairagarh",
+      "lat": 23.2695364,
+      "lng": 77.3368069
+    },
+    {
+      "id": 143,
+      "name": "Chanchal Sweet House",
+      "area": "Chanchal Chaurah, Bairagarh",
+      "known_for": "Sweets, chaat, raj kachori",
+      "category": "bairagarh",
+      "lat": 23.2709143,
+      "lng": 77.337371
+    },
+    {
+      "id": 144,
+      "name": "Varsha Sweets & Protein's",
+      "area": "Station Rd, Bairagarh",
+      "known_for": "Poha, dal pakwan, sev burfi, fast food",
+      "category": "bairagarh",
+      "lat": 23.2719632,
+      "lng": 77.4363963
+    },
+    {
+      "id": 145,
+      "name": "The Dream Cafe",
+      "area": "Mini Market, Bairagarh",
+      "known_for": "Loaded fries, sandwiches, live-music cafe",
+      "category": "bairagarh",
+      "lat": 23.2701477,
+      "lng": 77.3376973
+    },
+    {
+      "id": 146,
+      "name": "Maitri Amruttulya Cafe",
+      "area": "Data Colony, Bairagarh",
+      "known_for": "Chai stop, 24-hr",
+      "category": "bairagarh",
+      "lat": 23.2797018,
+      "lng": 77.3515863
+    },
+    {
+      "id": 147,
+      "name": "NFC Netaji Food Court",
+      "area": "Karond",
+      "known_for": "Multi-cuisine family food court",
+      "category": "karond",
+      "lat": 23.3030628,
+      "lng": 77.4029671
+    },
+    {
+      "id": 148,
+      "name": "Ramesh and Mahesh Chat Bhandaar",
+      "area": "Karond Chouraha",
+      "known_for": "Samosa, poha-jalebi breakfast, token system",
+      "category": "karond",
+      "lat": 23.3023118,
+      "lng": 77.4041291
+    },
+    {
+      "id": 149,
+      "name": "Sanjay Sweet & Restaurant",
+      "area": "Karond Chouraha",
+      "known_for": "Rooftop restaurant + sweet shop, chole tikiya chaat",
+      "category": "karond",
+      "lat": 23.3019847,
+      "lng": 77.4044272
+    },
+    {
+      "id": 150,
+      "name": "Spicy Fast Food Center",
+      "area": "Murli Nagar, Karond",
+      "known_for": "Dry Manchurian, Chinese fast food",
+      "category": "karond",
+      "lat": 23.3008322,
+      "lng": 77.4043636
+    },
+    {
+      "id": 151,
+      "name": "F for Fries",
+      "area": "Ayodhya Bypass Rd, Karond",
+      "known_for": "Momos, Maggi, fries",
+      "category": "karond",
+      "lat": 23.303131,
+      "lng": 77.3916756
+    },
+    {
+      "id": 152,
+      "name": "RadhaRani Chat Bhandar",
+      "area": "Ring Garden, Karond",
+      "known_for": "Dahi puri, pani puri",
+      "category": "karond",
+      "lat": 23.3059971,
+      "lng": 77.4134543
+    },
+    {
+      "id": 153,
+      "name": "Agarwal Sweets & Restaurant",
+      "area": "TRT Market, BHEL Sector B, Govindpura",
+      "known_for": "“All in one” mixture, dahi samosa",
+      "category": "mp-nagar-hawker-clusters-govindpura",
+      "lat": 23.2501586,
+      "lng": 77.4433954
+    },
+    {
+      "id": 154,
+      "name": "Pragati Hawkers Corner",
+      "area": "Near Pragati Petrol Pump, MP Nagar Zone-II",
+      "known_for": "Momos, chaat, dhaba-style dishes",
+      "category": "mp-nagar-hawker-clusters-govindpura",
+      "lat": 23.2291998,
+      "lng": 77.4349451
+    },
+    {
+      "id": 155,
+      "name": "Durga Tea Stall",
+      "area": "Near Pragati Petrol Pump, MP Nagar Zone-II",
+      "known_for": "24-hour tea stall",
+      "category": "mp-nagar-hawker-clusters-govindpura",
+      "lat": 23.2291892,
+      "lng": 77.434689
+    },
+    {
+      "id": 156,
+      "name": "Anand Poha",
+      "area": "Near Pragati Petrol Pump, MP Nagar Zone-II",
+      "known_for": "Poha-jalebi breakfast institution",
+      "category": "mp-nagar-hawker-clusters-govindpura",
+      "lat": 23.2295372,
+      "lng": 77.4353664
+    },
+    {
+      "id": 157,
+      "name": "Hawkers Point (MP Nagar)",
+      "area": "Near Pragati Petrol Pump, MP Nagar Zone-II",
+      "known_for": "Manchurian, tandoori momos, barbecue rolls",
+      "category": "mp-nagar-hawker-clusters-govindpura",
+      "lat": 23.2291801,
+      "lng": 77.4349501
+    },
+    {
+      "id": 158,
+      "name": "Sharma Ji Fast Food",
+      "area": "New Subhash Nagar, Govindpura",
+      "known_for": "Budget pizza & fast food",
+      "category": "mp-nagar-hawker-clusters-govindpura",
+      "lat": 23.2477607,
+      "lng": 77.4325352
+    },
+    {
+      "id": 159,
+      "name": "Bittu Egg Corner",
+      "area": "MP Nagar Zone-I",
+      "known_for": "Anda ghotala, egg dishes",
+      "category": "mp-nagar-hawker-clusters-govindpura",
+      "lat": 23.2356532,
+      "lng": 77.4347135
+    },
+    {
+      "id": 160,
+      "name": "Food Adda",
+      "area": "Gautam Nagar, MP Nagar Zone-I",
+      "known_for": "Rolls, kulcha — long-running college-crowd stop",
+      "category": "mp-nagar-hawker-clusters-govindpura",
+      "lat": 23.2357252,
+      "lng": 77.4383492
+    },
+    {
+      "id": 161,
+      "name": "Taste of Delhi",
+      "area": "MP Nagar Zone-I",
+      "known_for": "Fish fry, cheela, chole kulche — run by a women-owner duo",
+      "category": "mp-nagar-hawker-clusters-govindpura",
+      "lat": 23.2367845,
+      "lng": 77.4332521
+    },
+    {
+      "id": 162,
+      "name": "Naveen's Bapu Ki Kutia (MP Nagar)",
+      "area": "Service Rd, MP Nagar Zone-I",
+      "known_for": "Pure-veg North Indian & Chinese thali",
+      "category": "mp-nagar-hawker-clusters-govindpura",
+      "lat": 23.2332646,
+      "lng": 77.4335728
+    },
+    {
+      "id": 163,
+      "name": "Rolls Mania Bhopal",
+      "area": "Ranthambore Complex, MP Nagar Zone-II",
+      "known_for": "Chicken bhuna & hariyali rolls (chain)",
+      "category": "mp-nagar-hawker-clusters-govindpura",
+      "lat": 23.2330885,
+      "lng": 77.4350337
+    },
+    {
+      "id": 164,
+      "name": "Neelam (Poha Jalebi)",
+      "area": "Jyoti Complex, MP Nagar Zone-I",
+      "known_for": "Poha-jalebi breakfast counter",
+      "category": "mp-nagar-hawker-clusters-govindpura",
+      "lat": 23.2329567,
+      "lng": 77.4338239
+    },
+    {
+      "id": 165,
+      "name": "Darbar Tea Stall",
+      "area": "Gautam Nagar, Housing Board Colony",
+      "known_for": "Tea, hookah — engineering-crowd hangout",
+      "category": "mp-nagar-hawker-clusters-govindpura",
+      "lat": 23.2360011,
+      "lng": 77.4378095
+    },
+    {
+      "id": 166,
+      "name": "Chaska Junction",
+      "area": "Jahangirabad main market",
+      "known_for": "Fast food, egg roll",
+      "category": "jahangirabad",
+      "lat": 23.2506622,
+      "lng": 77.4153434
+    },
+    {
+      "id": 167,
+      "name": "Merhaba Fast Food",
+      "area": "Jinsi, Jahangirabad",
+      "known_for": "Chicken popcorn, wraps",
+      "category": "jahangirabad",
+      "lat": 23.2487919,
+      "lng": 77.4188783
+    },
+    {
+      "id": 168,
+      "name": "Kashiram Ji Ke AlooWade",
+      "area": "Church Rd, Jahangirabad",
+      "known_for": "Aloo bada/bonda street stall, roadside entry",
+      "category": "jahangirabad",
+      "lat": 23.2482429,
+      "lng": 77.4167483
+    },
+    {
+      "id": 169,
+      "name": "Qaswa",
+      "area": "near Aam Wali Masjid, Jahangirabad",
+      "known_for": "Loaded fries, fried chicken",
+      "category": "jahangirabad",
+      "lat": 23.2489756,
+      "lng": 77.4163317
+    },
+    {
+      "id": 170,
+      "name": "SG Food",
+      "area": "Sultania Rd, Kohefiza",
+      "known_for": "Everyday fast food",
+      "category": "kohefiza-idgah-hills-lalghati",
+      "lat": 23.2619682,
+      "lng": 77.3889288
+    },
+    {
+      "id": 171,
+      "name": "Al-Beik",
+      "area": "Kohefiza",
+      "known_for": "Chicken twister, burgers",
+      "category": "kohefiza-idgah-hills-lalghati",
+      "lat": 23.2623218,
+      "lng": 77.3791991
+    },
+    {
+      "id": 172,
+      "name": "Kurtos Kalacs",
+      "area": "Kohefiza Hospital Rd",
+      "known_for": "Chicken kurtos cone",
+      "category": "kohefiza-idgah-hills-lalghati",
+      "lat": 23.2624415,
+      "lng": 77.377992
+    },
+    {
+      "id": 173,
+      "name": "Bombay Cafe",
+      "area": "Kohefiza, Shahjahanabad",
+      "known_for": "Pizza, small food court",
+      "category": "kohefiza-idgah-hills-lalghati",
+      "lat": 23.2665733,
+      "lng": 77.3933291
+    },
+    {
+      "id": 174,
+      "name": "The Food Outlet",
+      "area": "BDA Colony, Kohefiza",
+      "known_for": "Chicken burgers",
+      "category": "kohefiza-idgah-hills-lalghati",
+      "lat": 23.2646373,
+      "lng": 77.3756299
+    },
+    {
+      "id": 175,
+      "name": "Sagar Gaire (Idgah Hills)",
+      "area": "Idgah Hills",
+      "known_for": "Sandwiches, cold coffee, chole kulche (branch)",
+      "category": "kohefiza-idgah-hills-lalghati",
+      "lat": 23.2661439,
+      "lng": 77.3870539
+    },
+    {
+      "id": 176,
+      "name": "Ramesh Bhai Ice Gola",
+      "area": "Idgah Hills",
+      "known_for": "Ice gola, rabdi-gola — Lalghati favourite",
+      "category": "kohefiza-idgah-hills-lalghati",
+      "lat": 23.2711463,
+      "lng": 77.3840179
+    },
+    {
+      "id": 177,
+      "name": "Nosh & Nook",
+      "area": "Gufa Mandir Rd, Lalghati",
+      "known_for": "Iced tea, mojitos, sandwiches, rolls",
+      "category": "kohefiza-idgah-hills-lalghati",
+      "lat": 23.2761534,
+      "lng": 77.3721762
+    },
+    {
+      "id": 178,
+      "name": "Thikana – The Food Court",
+      "area": "Gufa Mandir Rd, Lalghati",
+      "known_for": "Fast food court",
+      "category": "kohefiza-idgah-hills-lalghati",
+      "lat": 23.2771946,
+      "lng": 77.3727735
+    },
+    {
+      "id": 179,
+      "name": "New Roti Point",
+      "area": "Shahjahanabad",
+      "known_for": "Fresh roti/tandoor point",
+      "category": "kohefiza-idgah-hills-lalghati",
+      "lat": 23.2731435,
+      "lng": 77.3989339
+    },
+    {
+      "id": 180,
+      "name": "Manohar Dairy – New Market",
+      "area": "TT Nagar Square, New Market",
+      "known_for": "Aloo tikki chaat, sweets (branch)",
+      "category": "kohefiza-idgah-hills-lalghati",
+      "lat": 23.2356553,
+      "lng": 77.4008194
+    },
+    {
+      "id": 181,
+      "name": "Rasoi Street Food Court",
+      "area": "Bawadiya Kalan chaupati",
+      "known_for": "Pure-veg food-court chaupati",
+      "category": "bawadiya-kalan-gulmohar-rohit-nagar",
+      "lat": 23.1743846,
+      "lng": 77.4327338
+    },
+    {
+      "id": 182,
+      "name": "Idli Street",
+      "area": "Apollo Sage Hospital, Bawadiya Kalan",
+      "known_for": "South Indian — karam-podi rice, benne dosa",
+      "category": "bawadiya-kalan-gulmohar-rohit-nagar",
+      "lat": 23.1773548,
+      "lng": 77.4421651
+    },
+    {
+      "id": 183,
+      "name": "Chaat Di Hatti",
+      "area": "Rohit Nagar, Bawadiya Kalan",
+      "known_for": "Chaat basket, dabeli, dosa bullets",
+      "category": "bawadiya-kalan-gulmohar-rohit-nagar",
+      "lat": 23.1797832,
+      "lng": 77.4378979
+    },
+    {
+      "id": 184,
+      "name": "Chef's Corner",
+      "area": "Rohit Nagar, Bawadiya Kalan",
+      "known_for": "Home-style mutton kebab & curry",
+      "category": "bawadiya-kalan-gulmohar-rohit-nagar",
+      "lat": 23.1769063,
+      "lng": 77.4373179
+    },
+    {
+      "id": 185,
+      "name": "Baljeet's Amritsari Kulcha King",
+      "area": "Rohit Nagar, Bawadiya Kalan",
+      "known_for": "Amritsari kulcha",
+      "category": "bawadiya-kalan-gulmohar-rohit-nagar",
+      "lat": 23.1790481,
+      "lng": 77.4385758
+    },
+    {
+      "id": 186,
+      "name": "Lala Ji Ka Swad",
+      "area": "Tilak Nagar, Bawadiya Kalan",
+      "known_for": "Owner-cooked mutton specialities",
+      "category": "bawadiya-kalan-gulmohar-rohit-nagar",
+      "lat": 23.1876861,
+      "lng": 77.4369122
+    },
+    {
+      "id": 187,
+      "name": "Euphoria Multicuisine Family Restaurant",
+      "area": "Rohit Nagar, Bawadiya Kalan",
+      "known_for": "Paneer angara, dal makhni, party venue",
+      "category": "bawadiya-kalan-gulmohar-rohit-nagar",
+      "lat": 23.1764237,
+      "lng": 77.4345715
+    },
+    {
+      "id": 188,
+      "name": "Rowdy Cafe",
+      "area": "Rohit Nagar, Bawadiya Kalan",
+      "known_for": "Jhol momos, Korean noodles — Bhopal's Korean-food cafe",
+      "category": "bawadiya-kalan-gulmohar-rohit-nagar",
+      "lat": 23.183943,
+      "lng": 77.432745
+    },
+    {
+      "id": 189,
+      "name": "S3 Food Zone",
+      "area": "Gate 2, Minal Shopping St",
+      "known_for": "Multi-cuisine open food court",
+      "category": "minal-residency-ayodhya-bypass",
+      "lat": 23.2739774,
+      "lng": 77.4615996
+    },
+    {
+      "id": 190,
+      "name": "Bhopal Ka Chappan",
+      "area": "Minal Shopping St",
+      "known_for": "Ramen & multi-stall food court",
+      "category": "minal-residency-ayodhya-bypass",
+      "lat": 23.2740192,
+      "lng": 77.461482
+    },
+    {
+      "id": 191,
+      "name": "KGN Best Quality Fast Food",
+      "area": "Minal Mall",
+      "known_for": "Chicken lollipop, rolls",
+      "category": "minal-residency-ayodhya-bypass",
+      "lat": 23.2725424,
+      "lng": 77.4598588
+    },
+    {
+      "id": 192,
+      "name": "Snackiverse",
+      "area": "Minal Shopping St",
+      "known_for": "Signature vada pav, pakoras",
+      "category": "minal-residency-ayodhya-bypass",
+      "lat": 23.2679258,
+      "lng": 77.4576096
+    },
+    {
+      "id": 193,
+      "name": "Burgerland Minal Residency",
+      "area": "Minal Shopping St",
+      "known_for": "Burgers, egg toast, pizza",
+      "category": "minal-residency-ayodhya-bypass",
+      "lat": 23.2728587,
+      "lng": 77.4600315
+    },
+    {
+      "id": 194,
+      "name": "Sandwich-e-Bhopal",
+      "area": "Gate 2, Minal Shopping St",
+      "known_for": "100+ sandwich varieties",
+      "category": "minal-residency-ayodhya-bypass",
+      "lat": 23.2738993,
+      "lng": 77.4613004
+    },
+    {
+      "id": 195,
+      "name": "Jaipur Kachori House",
+      "area": "Minal Shopping St",
+      "known_for": "Pyaaz kachori, lassi",
+      "category": "minal-residency-ayodhya-bypass",
+      "lat": 23.2680564,
+      "lng": 77.4575804
+    },
+    {
+      "id": 196,
+      "name": "Nagpal's by Shiven Food Gallery",
+      "area": "Minal Residency",
+      "known_for": "Chole bhature, chole kulche",
+      "category": "minal-residency-ayodhya-bypass",
+      "lat": 23.2678875,
+      "lng": 77.4581278
+    },
+    {
+      "id": 197,
+      "name": "The Daddy's Kitchen",
+      "area": "Minal Shopping St",
+      "known_for": "Dosa, pav bhaji, pizza — party-hall attached",
+      "category": "minal-residency-ayodhya-bypass",
+      "lat": 23.2689305,
+      "lng": 77.4560816
+    },
+    {
+      "id": 198,
+      "name": "Chai Kaapi, Maple High Street",
+      "area": "Chinar Fortune City",
+      "known_for": "Chai, snacks (chain outlet)",
+      "category": "danish-nagar-hoshangabad-road",
+      "lat": 23.1821495,
+      "lng": 77.4543906
+    },
+    {
+      "id": 199,
+      "name": "Sagar Gaire (Maple High Street)",
+      "area": "Chinar Fortune City",
+      "known_for": "Chole bhature, cold coffee (branch)",
+      "category": "danish-nagar-hoshangabad-road",
+      "lat": 23.1821658,
+      "lng": 77.4543321
+    },
+    {
+      "id": 200,
+      "name": "Manoram's Food",
+      "area": "Danish Nagar",
+      "known_for": "Home-style thali, run by “Uncle & Aunty”",
+      "category": "danish-nagar-hoshangabad-road",
+      "lat": 23.1861165,
+      "lng": 77.4541424
+    },
+    {
+      "id": 201,
+      "name": "Jai Bhawani Rajasthan Misthan Bhandar",
+      "area": "Danish Nagar",
+      "known_for": "Pyaaz kachori, chaat, patties",
+      "category": "danish-nagar-hoshangabad-road",
+      "lat": 23.1856344,
+      "lng": 77.4541112
+    },
+    {
+      "id": 202,
+      "name": "Sahu Ji Cafe & Juice Center",
+      "area": "Danish Nagar",
+      "known_for": "Sugarcane juice, samosa",
+      "category": "danish-nagar-hoshangabad-road",
+      "lat": 23.1856729,
+      "lng": 77.456224
+    },
+    {
+      "id": 203,
+      "name": "MunchMate Cafe",
+      "area": "Maple High Street, Danish Nagar",
+      "known_for": "Loaded rolls (cloud kitchen)",
+      "category": "danish-nagar-hoshangabad-road",
+      "lat": 23.1821348,
+      "lng": 77.4544485
+    },
+    {
+      "id": 204,
+      "name": "Brews & Bowls",
+      "area": "Danish Nagar",
+      "known_for": "Cozy cafe fare",
+      "category": "danish-nagar-hoshangabad-road",
+      "lat": 23.1825123,
+      "lng": 77.4556101
+    },
+    {
+      "id": 205,
+      "name": "Delicious Bites",
+      "area": "Ashima Mall, Danish Nagar",
+      "known_for": "Manchurian platters, momos, South Indian",
+      "category": "danish-nagar-hoshangabad-road",
+      "lat": 23.1831281,
+      "lng": 77.456325
+    },
+    {
+      "id": 206,
+      "name": "Taste of Gujarat",
+      "area": "Ashima Mall, Danish Nagar",
+      "known_for": "Gujarati & Kathiyawadi thali",
+      "category": "danish-nagar-hoshangabad-road",
+      "lat": 23.1831161,
+      "lng": 77.4562972
+    },
+    {
+      "id": 207,
+      "name": "Hunger Bites – Fast Food Corner",
+      "area": "Panchvati Market, Saket Nagar",
+      "known_for": "Quick-bite fast food",
+      "category": "saket-nagar-shakti-nagar-habibganj",
+      "lat": 23.2187823,
+      "lng": 77.4573465
+    },
+    {
+      "id": 208,
+      "name": "POV Peace-O-Vibe",
+      "area": "Saket Nagar",
+      "known_for": "Goa-themed gaming cafe",
+      "category": "saket-nagar-shakti-nagar-habibganj",
+      "lat": 23.2164576,
+      "lng": 77.4577822
+    },
+    {
+      "id": 209,
+      "name": "Madras Dosa Waalla",
+      "area": "Shakti Nagar, Habibganj",
+      "known_for": "South Indian dosa cart",
+      "category": "saket-nagar-shakti-nagar-habibganj",
+      "lat": 23.2169139,
+      "lng": 77.4549027
+    },
+    {
+      "id": 210,
+      "name": "Hawkers Point (Shakti Nagar)",
+      "area": "Panchwati Market, Saket Nagar",
+      "known_for": "Chinese, South Indian, chaat, egg items",
+      "category": "saket-nagar-shakti-nagar-habibganj",
+      "lat": 23.2168358,
+      "lng": 77.4565392
+    },
+    {
+      "id": 211,
+      "name": "One Walk",
+      "area": "Bansal One, Habibganj",
+      "known_for": "Multi-stall food street outside Rani Kamlapati Stn",
+      "category": "saket-nagar-shakti-nagar-habibganj",
+      "lat": 23.2221469,
+      "lng": 77.4389406
+    },
+    {
+      "id": 212,
+      "name": "Subway Chuna Bhatti",
+      "area": "Amaltas, Chuna Bhatti",
+      "known_for": "Sandwich chain outlet",
+      "category": "nehru-nagar-chuna-bhatti-outskirts",
+      "lat": 23.2041051,
+      "lng": 77.4169234
+    },
+    {
+      "id": 213,
+      "name": "Asha Food Zone & Sweets",
+      "area": "Nehru Nagar, Kotra Sultanabad",
+      "known_for": "Dahi puri, sweets, bakery",
+      "category": "nehru-nagar-chuna-bhatti-outskirts",
+      "lat": 23.2133841,
+      "lng": 77.3932029
+    },
+    {
+      "id": 214,
+      "name": "Madhuram Sweets",
+      "area": "C Sector, Nehru Nagar",
+      "known_for": "Sweets, samosa with chutney",
+      "category": "nehru-nagar-chuna-bhatti-outskirts",
+      "lat": 23.2130014,
+      "lng": 77.3934574
+    },
+    {
+      "id": 215,
+      "name": "The Street Kitchen",
+      "area": "Magnum Vihar, Awadhpuri",
+      "known_for": "Evening street-food cafe",
+      "category": "nehru-nagar-chuna-bhatti-outskirts",
+      "lat": 23.2293721,
+      "lng": 77.4922687
+    },
+    {
+      "id": 216,
+      "name": "Aura Foods – The Street Cafe",
+      "area": "Mandideep",
+      "known_for": "Cold coffee, momos",
+      "category": "nehru-nagar-chuna-bhatti-outskirts",
+      "lat": 23.0948398,
+      "lng": 77.5146227
+    },
+    {
+      "id": 217,
+      "name": "Number 12 Market",
+      "area": "E-7, Arera Colony",
+      "known_for": "Daily-needs market with food stalls",
+      "category": "nehru-nagar-chuna-bhatti-outskirts",
+      "lat": 23.2034252,
+      "lng": 77.4372402
+    },
+    {
+      "id": 218,
+      "name": "Bhukkad Bite's",
+      "area": "Shivaji Nagar",
+      "known_for": "Loaded rolls — tandoori, schezwan, peri peri",
+      "category": "nehru-nagar-chuna-bhatti-outskirts",
+      "lat": 23.2305275,
+      "lng": 77.4219857
+    },
+    {
+      "id": 219,
+      "name": "Sahoo Ji Litti Chokha",
+      "area": "1100 Quarters, Arera Colony",
+      "known_for": "Bihar-style litti chokha, ₹30/plate",
+      "category": "nehru-nagar-chuna-bhatti-outskirts",
+      "lat": 23.2083562,
+      "lng": 77.4311471
+    },
+    {
+      "id": 220,
+      "name": "Sagar Gaire – 10 No. Market",
+      "area": "10 No. Market, Arera Colony",
+      "known_for": "Sandwiches, chole kulche (flagship branch)",
+      "category": "nehru-nagar-chuna-bhatti-outskirts",
+      "lat": 23.2143328,
+      "lng": 77.4353101
+    },
+    {
+      "id": 221,
+      "name": "Peppery House",
+      "area": "Bagsewaniya, BHEL",
+      "known_for": "Local multi-cuisine restaurant",
+      "category": "nehru-nagar-chuna-bhatti-outskirts",
+      "lat": 23.1891875,
+      "lng": 77.4650625
+    }
+  ]
+}
