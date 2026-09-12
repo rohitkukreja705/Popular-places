@@ -28,6 +28,29 @@ jobs:
             --org com.bhopalfoodmap /tmp/scaffold
           cp -r /tmp/scaffold/android ./android
 
+      - name: Add required Android permissions
+        run: |
+          python3 - << 'EOF'
+          path = "android/app/src/main/AndroidManifest.xml"
+          with open(path) as f:
+              content = f.read()
+
+          permissions = [
+              '<uses-permission android:name="android.permission.INTERNET"/>',
+              '<uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>',
+              '<uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>',
+          ]
+          block = "".join(f"    {p}\n" for p in permissions) + "\n"
+
+          if "android.permission.INTERNET" not in content:
+              content = content.replace("<application", block + "    <application", 1)
+              with open(path, "w") as f:
+                  f.write(content)
+              print("Patched AndroidManifest.xml with required permissions")
+          else:
+              print("Manifest already has required permissions — skipping")
+          EOF
+
       - name: Get dependencies
         run: flutter pub get
 
