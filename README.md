@@ -47,8 +47,8 @@ under that run's **Artifacts**.
   installing a new build over an old one on the same phone will fail until
   you uninstall the old one first (same issue hit on Zentra-App; fix there
   was committing a fixed `debug.keystore` and pinning
-  `signingConfigs.debug` to it). Ask to have this applied once the first
-  build succeeds and the generated `build.gradle` can be inspected directly.
+  `signingConfigs.debug` to it). Ask to have this applied once you'd rather
+  stop uninstalling between test builds.
 - **Tile provider**: currently points at the shared `tile.openstreetmap.org`
   servers, which is fine for development but OSM's usage policy asks
   heavier-traffic or public apps to move to a dedicated free tile provider
@@ -57,3 +57,16 @@ under that run's **Artifacts**.
   `flutter_map_marker_cluster` would group nearby pins — held off on v1 to
   keep the dependency list minimal until the base build is confirmed working.
 - **App icon / name polish**: currently uses Flutter's default icon.
+
+## Fixed along the way
+
+- **v1 → v2**: `flutter build apk --release` doesn't get the `INTERNET`
+  permission Flutter auto-adds to debug builds, so tiles failed to load
+  silently (pins still rendered fine since those are drawn locally, no
+  network needed). The CI workflow now patches
+  `android/app/src/main/AndroidManifest.xml` right after it's generated to
+  add `INTERNET`, `ACCESS_FINE_LOCATION`, and `ACCESS_COARSE_LOCATION`.
+- **v1 → v2**: added a real "use my location" feature (`geolocator` package)
+  — a locate-me FAB centers the map on the device's GPS position, and once
+  granted, the place list/markers sort nearest-first with distance shown in
+  each place's detail sheet.
