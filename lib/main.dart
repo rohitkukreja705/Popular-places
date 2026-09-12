@@ -3,6 +3,7 @@ import 'dart:convert';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart' show rootBundle;
 import 'package:flutter_map/flutter_map.dart';
+import 'package:geolocator/geolocator.dart';
 import 'package:latlong2/latlong.dart';
 import 'package:url_launcher/url_launcher.dart';
 
@@ -102,6 +103,8 @@ class _MapScreenState extends State<MapScreen> {
   String _searchQuery = '';
   bool _loading = true;
   bool _searching = false;
+  Position? _userPosition;
+  bool _locating = false;
 
   final TextEditingController _searchController = TextEditingController();
   final MapController _mapController = MapController();
@@ -138,7 +141,7 @@ class _MapScreenState extends State<MapScreen> {
 
   List<FoodPlace> get _visiblePlaces {
     final q = _searchQuery.trim().toLowerCase();
-    return _allPlaces.where((p) {
+    final filtered = _allPlaces.where((p) {
       final matchesCategory =
           _selectedCategory == null || p.category == _selectedCategory;
       final matchesSearch = q.isEmpty ||
@@ -147,6 +150,70 @@ class _MapScreenState extends State<MapScreen> {
           p.knownFor.toLowerCase().contains(q);
       return matchesCategory && matchesSearch;
     }).toList();
+
+    if (_userPosition != null) {
+      filtered.sort(
+        (a, b) => _distanceKmFrom(a)!.compareTo(_distanceKmFrom(b)!),
+      );
+    }
+    return filtered;
+  }
+
+  double? _distanceKmFrom(FoodPlace p) {
+    final pos = _userPosition;
+    if (pos == null) return null;
+    final meters = Geolocator.distanceBetween(
+      pos.latitude,
+      pos.longitude,
+      p.lat,
+      p.lng,
+    );
+    return meters / 1000;
+  }
+
+  void _showMessage(String msg) {
+    if (!mounted) return;
+    ScaffoldMessenger.of(context).showSnackBar(SnackBar(content: Text(msg)));
+  }
+
+  Future<void> _useMyLocation() async {
+    setState(() => _locating = true);
+    try {
+      final serviceEnabled = await Geolocator.isLocationServiceEnabled();
+      if (!serviceEnabled) {
+        _showMessage('Location services are turned off on this device.');
+        return;
+      }
+
+      LocationPermission permission = await Geolocator.checkPermission();
+      if (permission == LocationPermission.denied) {
+        permission = await Geolocator.requestPermission();
+      }
+      if (permission == LocationPermission.denied) {
+        _showMessage('Location permission denied.');
+        return;
+      }
+      if (permission == LocationPermission.deniedForever) {
+        _showMessage(
+          'Location permission permanently denied — enable it from app settings.',
+        );
+        return;
+      }
+
+      final position = await Geolocator.getCurrentPosition(
+        locationSettings: const LocationSettings(
+          accuracy: LocationAccuracy.high,
+        ),
+      );
+
+      if (!mounted) return;
+      setState(() => _userPosition = position);
+      _mapController.move(LatLng(position.latitude, position.longitude), 14);
+    } catch (_) {
+      _showMessage('Could not get your location.');
+    } finally {
+      if (mounted) setState(() => _locating = false);
+    }
   }
 
   Future<void> _openInMaps(FoodPlace place) async {
@@ -187,6 +254,16 @@ class _MapScreenState extends State<MapScreen> {
                 ),
                 const SizedBox(height: 4),
                 Text(place.area, style: TextStyle(color: Colors.grey[700])),
+                if (_distanceKmFrom(place) != null) ...[
+                  const SizedBox(height: 2),
+                  Text(
+                    '${_distanceKmFrom(place)!.toStringAsFixed(1)} km away',
+                    style: const TextStyle(
+                      color: Color(0xFFD9663B),
+                      fontWeight: FontWeight.w600,
+                    ),
+                  ),
+                ],
                 const SizedBox(height: 12),
                 Text(place.knownFor, style: const TextStyle(fontSize: 15, height: 1.35)),
                 const SizedBox(height: 20),
@@ -230,6 +307,24 @@ class _MapScreenState extends State<MapScreen> {
           ),
         )
         .toList();
+
+    if (_userPosition != null) {
+      markers.add(
+        Marker(
+          point: LatLng(_userPosition!.latitude, _userPosition!.longitude),
+          width: 24,
+          height: 24,
+          child: Container(
+            decoration: BoxDecoration(
+              shape: BoxShape.circle,
+              color: Colors.blue,
+              border: Border.all(color: Colors.white, width: 3),
+              boxShadow: const [BoxShadow(blurRadius: 4, color: Colors.black38)],
+            ),
+          ),
+        ),
+      );
+    }
 
     return Scaffold(
       appBar: AppBar(
@@ -300,7 +395,9 @@ class _MapScreenState extends State<MapScreen> {
                       ],
                     ),
                     child: Text(
-                      '${places.length} of ${_allPlaces.length} places',
+                      _userPosition == null
+                          ? '${places.length} of ${_allPlaces.length} places'
+                          : '${places.length} of ${_allPlaces.length} \u2022 nearest first',
                       style: const TextStyle(fontSize: 12),
                     ),
                   ),
@@ -309,6 +406,17 @@ class _MapScreenState extends State<MapScreen> {
             ),
           ),
         ],
+      ),
+      floatingActionButton: FloatingActionButton(
+        onPressed: _locating ? null : _useMyLocation,
+        tooltip: 'Use my location',
+        child: _locating
+            ? const SizedBox(
+                width: 20,
+                height: 20,
+                child: CircularProgressIndicator(strokeWidth: 2, color: Colors.white),
+              )
+            : const Icon(Icons.my_location),
       ),
     );
   }
